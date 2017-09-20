@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.ord/schemes/siteap/0.9">
+    <url>
+        <loc>http://www.leonkimpton.com</loc>
+        <lastmod>2017-02-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8888/leonkimpton/index.php</loc>
+        <lastmod>2017-02-08</lastmod>
+        <changefreq>Monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8888/leonkimpton/section.php?s=w</loc>
+        <lastmod>2017-01-07</lastmod>
+        <changefreq>Monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8888/leonkimpton/section.php?s=p</loc>
+        <lastmod>2017-01-07</lastmod>
+        <changefreq>Monthly</changefreq>
+        <priority>0.5</priority>  
+    </url>
+    <url>
+        <loc>http://localhost:8888/leonkimpton/section.php?s=m</loc>
+        <lastmod>2017-01-07</lastmod>
+        <changefreq>0.5</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>http://localhost:8888/leonkimpton/blog.php</loc>
+        <lastmod>2017-01-07</lastmod>
+        <changefreq>0.5</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+</urlset>

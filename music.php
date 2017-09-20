@@ -1,0 +1,67 @@
+<?php
+$list .= "<div id=\"portfolio\" class=\"container-fluid text-center bg-grey\">";
+$list .= "<h4>My Music Projects</h4>";
+$list .= "<div class=\"row text-center\">";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/-K9zV_npmNY\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of Turn the Page</p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/P36Ldn8_Hnc\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of How Soon Is Now</p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/MmMEzhMi5ug\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of White Wedding </p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "</div>";
+
+$list .= "<div class=\"row text-center\">";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/e7o6b_WH_Qo\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of Falling Away From Me</p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/-nwuWI48paY\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of Breathe</p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/HRlRbswcA8M\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>A cover of Cities in Dust </p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "</div>";
+
+$list .= "<div class=\"row text-center\">";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/RoP4wtXBGkE\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of You Spin Me Round </p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/ltfzWyqNlgY\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of Tainted Love</p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "<div class=\"col-sm-4\">";
+$list .= "<div class=\"thumbnail\">";
+$list .= "<iframe width=\"100%\" src=\"https://www.youtube.com/embed/2zvc_KFtip8\" frameborder=\"0\" allowfullscreen></iframe>";
+$list .= "<p>Here's my cover of Lullaby by The Cure </p>";
+$list .= "</div>";
+$list .= "</div>";
+$list .= "</div>";
+?>
+
